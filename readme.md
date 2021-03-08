@@ -10,6 +10,13 @@ Hello, Welcome to MBSoftware  Email Queue Helper Script!
 First one installation; 
 \
 &nbsp;
+
+[Packagist](https://packagist.org/packages/buldurmert/mbqueue)
+
+```
+composer require buldurmert/mbqueue
+```
+
 1. Enter into folder
 2. Run composer install
 3. Open cron.php and generate.php
