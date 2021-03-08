@@ -1,0 +1,19 @@
+{
+    "name":"buldurmert/mQueue",
+    "description":"Php Mail Queue Helper",
+    "authors":[
+        {
+            "name":"MERT BULDUR",
+            "email":"buldurmert@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "MBSoftware\\":"src//"
+        }
+    }
+
+}
