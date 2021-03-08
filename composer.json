@@ -1,5 +1,5 @@
 {
-    "name":"buldurmert/mqueue",
+    "name":"buldurmert/mbqueue",
     "description":"Php Mail Queue Helper",
     "authors":[
         {
